@@ -14,6 +14,10 @@ Git:
 
 https://git-scm.com/
 
-Et enfin créer un compte sur EasyEDA
+un compte sur EasyEDA
 
 https://easyeda.com/fr
+
+TeamViewer
+
+https://www.teamviewer.com/fr/
