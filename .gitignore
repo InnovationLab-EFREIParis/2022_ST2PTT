@@ -1,8 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+# 05_bom
+05_bom/
 
 <<<<<<< HEAD
 # PowerPoint
