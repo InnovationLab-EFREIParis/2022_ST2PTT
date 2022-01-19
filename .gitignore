@@ -4,8 +4,13 @@
 # Ada Library Information
 *.ali
 
+<<<<<<< HEAD
 # PowerPoint
 *.pptx
 
 # Word
 *.docx
+=======
+# powerpoint
+*.pptx
+>>>>>>> fd6e7da94df582f428528463bcfc6c3b092c32f2
